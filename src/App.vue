@@ -1,8 +1,7 @@
 <template>
   <div id="app">
 
-    <!--<a href="http://umunhum.io:8877">-->
-    <a href="https://github.com/rust-flavored-bitcoin/umunhum">
+    <a href="http://umunhum.io:8877">
       <img src="./assets/umunhum.jpg" height="169" width="300"/><br/>
       Mount Umunuhum Project
     </a>
